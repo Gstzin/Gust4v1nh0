@@ -1,4 +1,4 @@
-- 👋 Olá Eu sou O Gustavo
+- 👋 Olá Eu Sou o Gustavo
 - 🐱‍👤 Tenho 13 Anos
 - 👀 Eu Sei Só 2 Linguagens De Programação , Que São Lua e Batch
 - 😁 Estou Estudando C++ e HTML
