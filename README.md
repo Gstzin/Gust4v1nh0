@@ -1,6 +1,6 @@
 
 ### Olá ,Eu Sou o Gustavo 😘
-### Tenho 13 Anos 🐱‍👤
+### Tenho 14 Anos 🐱‍👤
 
 
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://prnt.sc/AjZnhPNDMh9-)
